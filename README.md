@@ -1,10 +1,10 @@
 # Ahmed Farooq
 
-**👨‍💻 About Me**
+## 👨‍💻 About Me
 
 I am an ambitious and dedicated software engineering student with a passion for solving real-world problems through technology. My expertise lies in Python programming, Artificial Intelligence, and Machine Learning, where I focus on developing innovative solutions that enhance efficiency and safety. Currently, I am expanding my knowledge in cloud-based AI systems through the Certified Cloud Applied Generative AI Engineering program. My journey is driven by a desire to continually learn, innovate, and contribute to cutting-edge projects that make a difference.
 
-# 🎓 Education
+## 🎓 Education
 
 Bachelor of Science in Computer Software Engineering
 Usman Institute of Technology | 2021 - 2025
@@ -12,9 +12,7 @@ Usman Institute of Technology | 2021 - 2025
 Certified Cloud Applied Generative AI Engineering
 Governor Sindh Initiative | 2024 - Present
 
-
-
-# 🛠 Skills
+## 🛠 Skills
 
 **Programming Languages:** Python, Java, TypeScript
 
@@ -23,11 +21,7 @@ Governor Sindh Initiative | 2024 - Present
 **Additional Skills:** Project Handling, Leadership, Project Management
 
 
-
-
-
-# 📫 Connect with Me
-
+## 📫 Connect with Me
 
 **LinkedIn:** https://www.linkedin.com/in/ahmedfarooq128/
 
