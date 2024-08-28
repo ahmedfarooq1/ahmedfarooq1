@@ -1,7 +1,5 @@
 # Ahmed Farooq
 
-## 👨‍💻 About Me
-
 I am an ambitious and dedicated software engineering student with a passion for solving real-world problems through technology. My expertise lies in Python programming, Artificial Intelligence, and Machine Learning, where I focus on developing innovative solutions that enhance efficiency and safety. Currently, I am expanding my knowledge in cloud-based AI systems through the Certified Cloud Applied Generative AI Engineering program. My journey is driven by a desire to continually learn, innovate, and contribute to cutting-edge projects that make a difference.
 
 ## 🎓 Education
@@ -22,6 +20,7 @@ Governor Sindh Initiative | 2024 - Present
 
 
 ## 📫 Connect with Me
+
 
 **LinkedIn:** https://www.linkedin.com/in/ahmedfarooq128/
 
