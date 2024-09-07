@@ -39,5 +39,5 @@ Thank you for visiting my profile, and I hope you find something valuable here!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedfarooq1&show_icons=true&locale=en" alt="ahmedfarooq1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedfarooq1&" alt="ahmedfarooq1" /></p>
+
 
